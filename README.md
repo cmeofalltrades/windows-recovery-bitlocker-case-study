@@ -18,13 +18,16 @@ This project documents a real-world Windows troubleshooting scenario where a use
 - System File Checker
 
 ## Skills Demonstrated
-- Windows troubleshooting
-- BitLocker recovery
-- Command-line diagnostics
-- Root cause analysis
-- Account recovery support
-- Data preservation
-- Post-recovery validation
+- Windows 11 Troubleshooting
+- Windows Recovery Environment (WinRE)
+- BitLocker Recovery
+- DiskPart Administration
+- Command-Line Diagnostics
+- User Account Recovery
+- Root Cause Analysis
+- Technical Documentation
+- Data Preservation
+- Endpoint Support
 
 ## Outcome
 The device was successfully recovered, user access was restored, and customer data was preserved without requiring a full Windows reset.
